@@ -1,2 +1,2 @@
-# respositorio-pc
+# repositorio-pc
 # repositorio-pc
